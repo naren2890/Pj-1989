@@ -1,0 +1,30 @@
+total 4
+drwxr-xr-x 1 naren 197121 0 May  2 10:22 Jenkins
+drwxr-xr-x 1 naren 197121 0 May  9  2022 Sharelib-jenkins-git
+drwxr-xr-x 1 naren 197121 0 May  4 16:09 Terraform files TechWorldWithSiva
+drwxr-xr-x 1 naren 197121 0 Jul 23 15:50 Test-git
+/f/:
+total 10672
+drwxr-xr-x 1 naren 197121        0 Jan 28  2022 $RECYCLE.BIN
+-rw-r--r-- 1 naren 197121 10886040 Aug 22  2019 22-no NAMES.pdf
+drwxr-xr-x 1 naren 197121        0 Dec 17  2022 Camera
+drwxr-xr-x 1 naren 197121        0 Jul 18 21:25 Devops-check
+drwxr-xr-x 1 naren 197121        0 Dec 11  2017 Devops-Flories
+drwxr-xr-x 1 naren 197121        0 Dec 22  2022 Doc-Dex
+drwxr-xr-x 1 naren 197121        0 Nov 18  2021 IMP
+drwxr-xr-x 1 naren 197121        0 Jan 24 13:04 JaiTrieTree
+drwxr-xr-x 1 naren 197121        0 Dec 19  2019 Pruthvi
+drwxr-xr-x 1 naren 197121        0 Apr 22  2022 python-lab
+drwxr-xr-x 1 naren 197121        0 Feb 10 12:45 send
+drwxr-xr-x 1 naren 197121        0 Aug  3  2021 System Volume Information
+drwxr-xr-x 1 naren 197121        0 May  5  2018 telugu fout
+drwxr-xr-x 1 naren 197121        0 Apr 27 15:55 terraform
+drwxr-xr-x 1 naren 197121        0 Dec  3  2017 We-Pic
+drwxr-xr-x 1 naren 197121        0 Jul 23 15:44 work-files
+
+/f/work-files/:
+total 4
+drwxr-xr-x 1 naren 197121 0 May  2 10:22 Jenkins
+drwxr-xr-x 1 naren 197121 0 May  9  2022 Sharelib-jenkins-git
+drwxr-xr-x 1 naren 197121 0 May  4 16:09 Terraform files TechWorldWithSiva
+drwxr-xr-x 1 naren 197121 0 Jul 23 15:50 Test-git

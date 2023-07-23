@@ -1,0 +1,1 @@
+ls -l /f/work-files/ /f/ >> out.txt
